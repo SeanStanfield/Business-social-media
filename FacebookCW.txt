@@ -1,0 +1,42 @@
+# Analysis of organizational use of social media
+
+## Facebook
+
+Facebook with over 1.74 active Billion users, has become the most popular social media service when looking at raw numbers, allowing users and business' to post content of almost any kind.
+
+Within Facebook, Businesses can update their status based on current events and post messages on their feed which can be text, photo or video based. Most Businesses tend to opt for either photo or video-based content as in the cluttered user interface of Facebook, a video with sound is the most eye-catching and will fetch the most watch time per content unit.
+ 
+### Direct and indirect advertising
+
+For most businesses, the most important part of Facebook is not the businesses page itself, but rather the highly customizable Facebook ads which can be targeted towards specific demographics.
+
+This is a type of direct advertising since the customer is being given or shown a suggested product based on their preferences. Most of the advertising on Facebook is direct because of the nature of the Facebook ads platform.
+
+However, that is not to say that indirect advertising is impossible. Organizations may use Facebook to follow social media influencers in an attempt to connect with more potential customers. For example, if a Business had its largest audience profile as teenage males, it may be advisable for a Facebook page to follow celebrities or social media influencers who are popular with this demographic drawing in more potential customers.
+
+### providing special offers
+
+Along side Facebook ads, Facebook offers a similar service which they call Facebook offers.
+
+Facebook offers allows businesses to promote special deals such as coupons or discount codes on their Facebook page or within ads. There are two main organisational benefits to using Facebook offers:
+
+Firstly, by limiting where you post your coupons to your business Facebook page, it automatically increases your brand awareness as more users are drawn to the Business page where they will learn more about the business whether or not they intended to as this is where they offers are shown.
+
+Secondly, proving discounts to social media users, even small ones, is a great way to increase traffic to your website. This can be further enhanced by allowing customers further discount if they share the offer with their Facebook friends.
+
+### Uses for content
+
+Businesses will make posts to Facebook for 3 main reasons, to provide information, create humor or to provide customer service.
+
+Information may be provided through an update to the business Facebook page or an additional to businesses feed. An example that would be suitable for Facebook may be creating a post showcasing the release of a new line of products that will be launching soon, or announcing a partnership with another business on Facebook.
+
+Although it would seem that Facebook is becoming increasingly business oriented, companies still employ the use of humor to engage customers. In 2019 most online humor is meme based, especially when targeting the younger generation. Being a platform more accustomed to the older generation, humor on Facebook is less meme based than platforms such as Instagram.
+
+Rather, effective Facebook humor consists of business not taking themselves to seriously often using childish or informal cartoons or informatics to make a point about either a company product or service. The most effective businesses strike a careful balance between sarcasm or cynicism while still remaining light hearted enough in nature for Facebook users to share the content with their friends. Examples of Business with effective Facebook humor include Oreo and Poptarts.  
+
+Instead of having an integrated DM service like most other social media platforms, Facebook uses its own separate messaging service called messenger to allow users to talk to one another privately. It is becoming increasingly common for businesses to make use of messenger to connect with customers. Part of this is because of the increased demand for speedy customer responses. According to socialmediaexaminer.com 42% of customers who post a complaint, expect a response time within an hour. Using typical customer service methods such as phone calls and emails, this response time would not be possible. Pressure is further increased on companies because of globalisation happening earlier on in a companies growth. This means that businesses are expected to provide fast and accurate customer service 24 hours a day since business hours are not consistent around the world.
+
+In to keep up with the demand of exceptional and speedy customer service, many businesses using Facebook are turning to bots and AI to respond to common customer queries without using staff time. Up to 70% of customer service queries can be effectively resolved using a bot integrated into Facebook messenger.
+
+
+### audience profile
